@@ -1,0 +1,129 @@
+{
+	"compiler": {
+		"version": "0.4.24+commit.e67f0147"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [
+					{
+						"name": "a",
+						"type": "uint256"
+					},
+					{
+						"name": "b",
+						"type": "uint256"
+					}
+				],
+				"name": "safeSub",
+				"outputs": [
+					{
+						"name": "c",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"constant": true,
+				"inputs": [
+					{
+						"name": "a",
+						"type": "uint256"
+					},
+					{
+						"name": "b",
+						"type": "uint256"
+					}
+				],
+				"name": "safeDiv",
+				"outputs": [
+					{
+						"name": "c",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"constant": true,
+				"inputs": [
+					{
+						"name": "a",
+						"type": "uint256"
+					},
+					{
+						"name": "b",
+						"type": "uint256"
+					}
+				],
+				"name": "safeMul",
+				"outputs": [
+					{
+						"name": "c",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"constant": true,
+				"inputs": [
+					{
+						"name": "a",
+						"type": "uint256"
+					},
+					{
+						"name": "b",
+						"type": "uint256"
+					}
+				],
+				"name": "safeAdd",
+				"outputs": [
+					{
+						"name": "c",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"hangga.sol": "SafeMath"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"hangga.sol": {
+			"keccak256": "0xba5e3f4af00926953c046e2734c5fe7d20b6676c4fae9340cdeccef5914e53d4",
+			"urls": [
+				"bzzr://6b7ac42d6ea566bc1de7cbe9e152885c0909debabc4aa8f3e6d8c4f9c215714a"
+			]
+		}
+	},
+	"version": 1
+}
