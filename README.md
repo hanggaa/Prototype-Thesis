@@ -1,2 +1,2 @@
 # Prototype-Thesis
-This is repository for my program in my Thesis, I used python programming language and solidity to create a supply chain transparency system using blockchain in agribusiness in my Thesis. I am a pioneer to create real Blockchain Use Case Topics in my university.
+This is my dummy repository for my thesis. In my thesis, I used the Python programming language and solidity to create a supply chain transparency system using blockchain. I am a pioneer in creating real Blockchain Use Case Topics in my university.
